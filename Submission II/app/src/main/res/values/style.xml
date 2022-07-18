@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">\
+        <item name="colorPrimary">#042736</item>
+        <item name="colorPrimaryDark">#22789F</item>
+        <item name="colorAccent">#0AAAF3</item>
+    </style>
+
+    <style name="SplashScreen" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#042736</item>
+        <item name="colorPrimaryDark">#22789F</item>
+        <item name="colorAccent">#0AAAF3</item>
+    </style>
+
+    <style name="text_content1">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="text_content2">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="text_content3">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="img_detail">
+        <item name="android:layout_width">90dp</item>
+        <item name="android:layout_height">90dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="contentDescription">Image Detail</item>
+    </style>
+
+    <style name="text_content3.name_detail">
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="text_content3.username_detail">
+        <item name="android:layout_marginTop">8dp</item>
+    </style>
+
+    <style name="text_content3.ll_detail">
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+    <style name="text_content3.follow">
+        <item name="android:layout_marginEnd">16dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="text_content2.tabs">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:textColor">@color/blue_more_dark</item>
+
+    </style>
+
+    <style name="text_content2.fr_main">
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:layout_marginEnd">16dp</item>
+    </style>
+
+    <style name="text_content3.img_main">
+        <item name="android:layout_gravity">right|center_vertical</item>
+        <item name="android:layout_marginEnd">16dp</item>
+        <item name="android:src">@drawable/ic_search</item>
+        <item name="contentDescription">Image Main</item>
+    </style>
+
+    <style name="text_content1.rv_main">
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+    </style>
+
+    <style name="iv_ss">
+        <item name="android:layout_width">150dp</item>
+        <item name="android:layout_height">150dp</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_marginTop">236dp</item>
+        <item name="android:contentDescription">@string/logo_splashscreen</item>
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:src">@drawable/logo_ss</item>
+    </style>
+
+    <style name="text_content2.tv_ss">
+        <item name="android:layout_marginTop">400dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:text">@string/github_user_app</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="rv_follow">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="img_item">
+        <item name="android:layout_width">70dp</item>
+        <item name="android:layout_height">70dp</item>
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="contentDescription">Image Item</item>
+    </style>
+
+    <style name="text_content3.tv_item">
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="cl_item">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">96dp</item>
+    </style>
+
+    <style name="text_content1.search">
+        <item name="android:hint">@string/search</item>
+        <item name="android:inputType">text</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textColor">@color/blue_more_dark</item>
+    </style>
+
+    <style name="text_content3.about_biodata">
+        <item name="android:layout_marginTop">56dp</item>
+        <item name="android:text">Biodata</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="text_content3.about_name">
+        <item name="android:layout_marginStart">154dp</item>
+        <item name="android:layout_marginEnd">155dp</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:text">Woro Retnoningsih</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="text_content3.about_email">
+        <item name="android:layout_marginStart">122dp</item>
+        <item name="android:layout_marginEnd">123dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:text">a195r4154@dicoding.org</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">@color/blue_more_dark</item>
+    </style>
+
+
+
+</resources>
