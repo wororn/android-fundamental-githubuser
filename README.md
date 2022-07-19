@@ -1,2 +1,2 @@
-# J-Legends
-Aplikasi Android J Legends Sebagai Proyek Akhir Aplikasi Android Sederhana Dicoding
+# GitHub User
+Aplikasi Android Github User Sebagai Proyek Kedua Aplikasi Android Sederhana Dicoding
