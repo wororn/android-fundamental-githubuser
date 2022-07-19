@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="legends_name">Name</string>
+    <string name="legends_position">Company</string>
+    <string name="legends_detail">Location</string>
+    <string name="legends_overview"> Overview</string>
+    <string name="content_title">
+        Username
+        Repository
+        Follower
+        Following
+    </string>
+    <string name="content_detail">Content Detail</string>
+    <string name="content_overview">Content Overview</string>
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="search">Search</string>
+    <string name="logo_splashscreen">logo_splashscreen</string>
+    <string name="github_user_app">GitHub User App</string>
+    <string name="action_title">Detail User</string>
+    <string name="detail_user">Detail User</string>
+    <string name="about">About</string>
+    <string name="content_mark">Github App</string>
+    <string name="content_text">Hello.. Welcome to Github App</string>
+    <string name="subtext">Sub text</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notification">Notification</string>
+    <string name="sms">SMS</string>
+    <string name="profile">Profile</string>
+    <string name="profile_name">Woro Retnoningsih</string>
+    <string name="profile_email">wororaf@gmail.com</string>
+    <string name="search_hint">Masukkan Kata</string>
+    <string name="set_reminder">Set Reminder</string>
+    <string name="Cari">Masukkan Kata</string>
+    <string name="favorite">Favorite</string>
+    <string name="title_activity_theme">ThemeActivity</string>
+    <string name="set_themes">Set Mode</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+
+
+</resources>
